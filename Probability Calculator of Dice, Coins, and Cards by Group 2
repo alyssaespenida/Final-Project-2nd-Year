@@ -1,6 +1,3 @@
-
-
-
 import math
 
 print("\tWelcome to the Probability Calculator \n\t\tfor Dice, Coin, and Cards!")
