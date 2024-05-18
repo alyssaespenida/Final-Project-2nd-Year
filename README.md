@@ -13,7 +13,7 @@ Rosales, Angelo Joshua R.
 
 Yumang, Elisha Joy R.
 
-For the result/output of the codes, visit Issues.
+For the result/output of the code, visit Issues.
 
 
 (For educational purposes; requirement for school.)
