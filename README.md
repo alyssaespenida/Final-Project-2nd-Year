@@ -13,7 +13,7 @@ Rosales, Angelo Joshua R.
 
 Yumang, Elisha Joy R.
 
-For the result of the output of the programs, visit Issues.
+For the result of the output of the program, visit Issues.
 
 
 
